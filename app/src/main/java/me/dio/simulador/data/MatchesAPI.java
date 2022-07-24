@@ -2,7 +2,8 @@ package me.dio.simulador.data;
 
 import java.util.List;
 
-import me.dio.simulador.domain.Match;
+
+import me.dio.simulator.domain.Match;
 import retrofit2.Call;
 import retrofit2.http.GET;
 
