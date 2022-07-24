@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764283135773",
+    "project_id": "simulaotor-dio-bootcamp",
+    "storage_bucket": "simulaotor-dio-bootcamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764283135773:android:2d9e68586fadbb1c5863f4",
+        "android_client_info": {
+          "package_name": "me.dio.simulador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764283135773-vkc6c7cu80lequd85tfqv59dqjl2e4vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-dGMJ1dWuF1w1CH7ImKstDOKjdiutf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764283135773-vkc6c7cu80lequd85tfqv59dqjl2e4vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
