@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupHttpClient() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://github.com/tfreitasf/matches-simulator-api/")
+                .baseUrl("https://tfreitasf.github.io/matches-simulator-api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
