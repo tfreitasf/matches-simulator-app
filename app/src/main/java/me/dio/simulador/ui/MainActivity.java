@@ -11,8 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.google.android.material.snackbar.Snackbar;
 
-
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
